@@ -1,7 +1,7 @@
 # EDI Best Practice Posters
 
 This repository contains three posters designed to highlight EDI (Equality, Diversity, and Inclusion) best practices.
-These posters serve as **appendices** to the paper **"Best Practices for Promoting Equity, Diversity, and Inclusion in Infectious Disease Modelling"
+These posters serve as **appendices** to the paper **"Best Practices for Promoting Equity, Diversity, and Inclusion in Infectious Disease Modelling"**
 They summarize practical steps to implement EDI principles in various settings such as team environments, conferences, and virtual collaborations. 
 These posters can be freely downloaded and adapted to suit different contexts.
 
