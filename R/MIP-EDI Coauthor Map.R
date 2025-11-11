@@ -17,9 +17,9 @@ coauthors <- data.frame(
     "University of Hong Kong (CN)",
     "Heriot-Watt University (UK)",
     "Mahidol University (TH)",
-    "Fred Hutchinson Cancer Center (USA)",
+    "Fred Hutchinson Cancer Center (US)",
     "University of Sheffield (UK)",
-    "Georgetown University (USA)"
+    "Georgetown University (US)"
   ),
   city = c(
     "St Andrews",
@@ -137,7 +137,7 @@ p <- ggplot() +
 
 print(p)
 
-ggsave("coauthor_map.png", 
+ggsave("R/coauthor_map.png", 
        plot = p, 
        width = 10, 
        height = 6, 
