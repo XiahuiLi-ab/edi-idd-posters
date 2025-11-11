@@ -18,13 +18,13 @@ This manuscript emerged from discussions within an EDI working group formed duri
 
 ## About the Posters
 This repository contains three posters designed to highlight EDI best practices.
-These posters serve as **appendices** to the paper **"Actionable Guidelines for Promoting Equity, Diversity and Inclusion in Infectious Disease Modelling"**
+These posters serve as **appendices** to the paper **"Actionable Guidelines for Promoting Equity, Diversity and Inclusion in Infectious Disease Modelling"**.
 They summarize practical steps to implement EDI principles in various settings such as team environments, conferences and workshops, and virtual collaborations. 
 These posters can be freely downloaded and adapted to suit different contexts.
 
 **Within a Team Poster** – Tools and tips for inclusive team building and respectful communication.  
 **Conferences and Workshops Poster** – Guidance for organizers and participants on fostering equitable events.  
-**Virtual Environments Poster** – Best practices for remote and hybrid teamwork, ensuring accessibility and inclusive participation.
+**Virtual Environments Poster** – Recommendations for remote and hybrid teamwork, ensuring accessibility and inclusive participation.
 
 ## License
 
