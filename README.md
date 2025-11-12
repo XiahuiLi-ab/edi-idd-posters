@@ -39,7 +39,7 @@ You are free to share (copy and redistribute) and adapt (remix, transform, and b
 
 We welcome feedback and improvements! If you'd like to suggest changes or contribute additional resources:
 
-1.  **Open an Issue** to discuss potential revisions.\
+1.  **Open an Issue** to discuss potential revisions.
 2.  **Submit a Pull Request** if you've made changes to the files or created new materials.
 
 We view this work as a catalyst for ongoing conversation, and hope that it will promote continued reflection, discussion and collaboration throughout the infectious disease modelling community.
