@@ -16,7 +16,7 @@ This manuscript emerged from discussions within an EDI working group formed duri
 
 **Target journal**: Epidemics special issue "Research Culture in Infectious Disease Epidemiology"
 
-**Preprint**: <https://doi.org/10.5281/zenodo.17584466>
+**Preprint**: <https://zenodo.org/records/17584466>
 
 **Contact**: For questions about this manuscript, please contact: Xiahui Li (xl94\@st-andrews.ac.uk), Dongni Zhang (dongni.zhang\@liu.se), or Shweta Bansal ([sb753\@georgetown.edu](mailto:sb753@georgetown.edu){.email})
 
